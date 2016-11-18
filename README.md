@@ -1,2 +1,15 @@
 # datalogger
-Arduino Data Logger
+
+Arduino Data Logger (Sound)
+
+Material:
+- Arduino Uno
+- RTC DS3231
+- Adafruit MicroSD card breakout board+
+- Sparkfun Sound detector board SEN-12642
+
+
+Connections:
+
+
+Instructions:
