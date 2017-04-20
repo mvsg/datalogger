@@ -10,6 +10,7 @@ Material:
 
 
 Connections:
-
+Will be added soon.
 
 Instructions:
+Will be added soon.
